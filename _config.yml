@@ -1,1 +1,78 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prem Singh Bist - Researcher Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Prem Singh Bist - Researcher Profile</h1>
+    <p>Prem Singh Bist is a dedicated researcher and Ph.D. fellow in Bioinformatics (Electronics & Information Engineering) at NSCL Lab (<a href="http://nsclbio.jbnu.ac.kr/">http://nsclbio.jbnu.ac.kr/</a>), Jeonbuk National University, South Korea. With a strong focus on innovating artificial intelligence tools and techniques in BioInformatics, his current research revolves around SARS-CoV-2 escape sequence prediction, analysis, and drug discovery. Prem's work aims to identify and characterize mutated escape sequences that exhibit higher infectivity and transmissibility characteristics, providing valuable insights for the development of effective vaccines and pandemic prevention.</p>
+    
+    <h2>Publications</h2>
+    <ul>
+        <li>"Sars-escape network for escape prediction of SARS-COV-2" - Briefings in Bioinformatics (2023) - <a href="https://doi.org/10.1093/bib/bbad140">https://doi.org/10.1093/bib/bbad140</a></li>
+        <li>"Identification Of Sars-cov-2 Viral Escape Sequences Using Escapetrans Network" - IEEE conference proceedings (2022) - DOI: <a href="https://doi.org/10.1109/ICTC55196.2022.9952608">10.1109/ICTC55196.2022.9952608</a></li>
+        <li>Publication in the field of Music Onset Detection using Convolutional Neural Networks in the International Journal of Information Communication Technology and Digital Convergence (2019)</li>
+    </ul>
+    
+    <h2>Experience</h2>
+    <ul>
+        <li>Software Engineer - Itriangle Infotech Pvt Ltd, India</li>
+        <li>Software Engineer - Faststream Technology Pvt, India</li>
+        <li>Senior Software Engineer - Impetus Infotech Pvt. Ltd, India</li>
+        <li>Team Lead - Guru Institute of Engineering & Technology, Nepal</li>
+        <li>CEO and Technical Architect - Guru Technology Pvt Ltd, Nepal</li>
+    </ul>
+    
+    <h2>Teaching Experience</h2>
+    <ul>
+        <li>Part-time teaching at Padma Shree International College (2018)</li>
+        <li>Part-time teaching at Broadway Infosys Nepal (2019)</li>
+    </ul>
+    
+    <h2>Skills</h2>
+    <ul>
+        <li>Artificial Intelligence (Bioinformatics, Deep Learning, Machine Learning, Drug Discovery)</li>
+        <li>Programming Languages: Java/J2EE, Scala, Python, PHP, JavaScript</li>
+        <li>Frameworks: Spring, Hibernate</li>
+        <li>Big Data Technologies: Hadoop, Apache Spark, Apache Storm</li>
+        <li>Databases: MySQL, MSSQL Server, Oracle, Cassandra, MongoDB</li>
+        <li>Cloud Platforms: Amazon AWS, Google GCP</li>
+        <li>Other Tools and Technologies</li>
+    </ul>
+    
+    <h2>Hobbies and Interests</h2>
+    <p>Prem Singh Bist has a passion for traditional Nepalese musical instruments like the Flute, Harmonium, and Tabla. He enjoys singing classical songs, practicing yoga and meditation, and actively engages in social works, volunteering, and blogging. His hobbies also include traveling and exploring new cultures.</p>
+    
+    <h2>Contact</h2>
+    <p>Email: Prem62900@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/prem-singh-bist-88945234/">https://www.linkedin.com/in/prem-singh-bist-88945234/</a></p>
+    <p>ResearchGate: <a href="https://www.researchgate.net/profile/Prem-Bist">https://www.researchgate.net/profile/Prem-Bist</a></p>
+    <p>Guru Technology Pvt Ltd's website: <a href="https://gurutech.com.np/lp-profile/prem/">https://gurutech.com.np/lp-profile/prem/</a></p>
+    <p>ORCID: <a href="https://orcid.org/0000-0002-0551-9106">https://orcid.org/0000-0002-0551-9106</a></p>
+</body>
+</html>
